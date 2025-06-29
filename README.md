@@ -33,10 +33,11 @@ Soy estudiante de **4º año de Ingeniería Informática** en la **Universidad d
 - Actualmente en 4º curso
 
 ---
-## Intereses 
+## Intereses
+
   -  Practicas en empresas
   -  Posibilidad de un master colaborativo con empresas
-
+    
 ---
 
 ## 📫 Contacto
