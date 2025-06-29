@@ -35,15 +35,13 @@ Soy estudiante de **4º año de Ingeniería Informática** en la **Universidad d
 ---
 ## Intereses 
   -  Practicas en empresas
-  -  
+  -  Posibilidad de un master colaborativo con empresas
 
 ---
 
 ## 📫 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/TU-USUARIO/) *(añade tu perfil personalizado)*
-- 📧 Email: *(opcional)*
+- 💼 [linkedin.com/in/david-hinojosa-garcía-2631872a6](https://www.linkedin.com/in/david-hinojosa-garc%C3%ADa-2631872a6)
+- 📧 Email: davidhinojosaecho@gmail.com
 
 ---
-
-> “No es magia, es matemática con propósito.” — *WTI Forecaster*
