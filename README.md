@@ -17,7 +17,7 @@ Soy estudiante de **4º año de Ingeniería Informática** en la **Universidad d
 
 ---
 
-## 🔬 Proyecto destacado: [WTI-Forecaster-XDays](https://github.com/TU-USUARIO/TU-REPO)](https://github.com/EchoDavidHinojosa/CrudeOil-Predictor-XGBoost/tree/main)
+## 🔬 Proyecto destacado: [WTI-Forecaster-XDays](https://github.com/TU-USUARIO/TU-REPO)(https://github.com/EchoDavidHinojosa/CrudeOil-Predictor-XGBoost/tree/main)
 
 📈 Predicción del precio del petróleo WTI a 1 y 7 días  
 ⚙️ Modelado con XGBoost + variables macroeconómicas y geopolíticas  
